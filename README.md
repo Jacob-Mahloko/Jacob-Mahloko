@@ -1,4 +1,4 @@
-[![](https://snyk.io/_ipx/w_2560,q_75/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1620054318%2Fwordpress-sync%2Fblog-banner-github-scanning.png?url=https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1620054318%2Fwordpress-sync%2Fblog-banner-github-scanning.png&w=2560&q=75)]
+![](https://snyk.io/_ipx/w_2560,q_75/https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1620054318%2Fwordpress-sync%2Fblog-banner-github-scanning.png?url=https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1620054318%2Fwordpress-sync%2Fblog-banner-github-scanning.png&w=2560&q=75)
 <h1 align="center">Hi 👋, I'm Jacob Mahloko</h1>
 <h3 align="center">As a student, I am aspiring to become a software engineer with a keen interest in backend development.</h3>
 <img align="right" alt="Coding" width="400" src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2020/03/slower.gif?auto=format&q=60&fit=max&w=930">
