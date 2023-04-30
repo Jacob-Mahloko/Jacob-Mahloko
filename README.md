@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2020/03/slower.gif?auto=format&q=60&fit=max&w=930">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacob-mahloko&label=Profile%20views&color=0e75b6&style=flat" alt="jacob-mahloko" /> </p>
 
-- 🌱 I’m currently learning **Ionic-Angular ,NestJS and AI through tensorFlow**
+- 🌱 I’m currently learning **Ionic-Angular ,NestJS and Machine Learning**
 
 - 💬 Ask me about **Angular**
 
